@@ -122,7 +122,7 @@ public class ReportController {
 
     @Operation(
             tags = "Отчеты усыновителей",
-            summary = "Редактирование статуса отчетв пользователя",
+            summary = "Редактирование статуса отчетов пользователя",
             responses = {
                     @ApiResponse(
                             responseCode = "200",
