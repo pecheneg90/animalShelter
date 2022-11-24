@@ -18,8 +18,8 @@ public interface Constants {
     String SUCCESS_SAVING = "Данные сохранены, мы свяжемся с вами в ближайшее время.";
 
     String CALL_VOLUNTEER_CMD = "Позвать волонтера \uD83E\uDDD1";
-    String CALL_VOLUNTEER_TEXT = "Волонтера свяжется с Вами!";
-    Long VOLUNTEERS_CHAT_ID = -5594978585L;
+    String CALL_VOLUNTEER_TEXT = "Волонтер свяжется с Вами!";
+    Long VOLUNTEERS_CHAT_ID = -000000000L;
     String INVALID_CMD = "Некорректная команда.";
     String REFUSAL_REASONS_CMD = "Причины отказа \uD83D\uDEAB";
     String REFUSAL_REASONS_TEXT = "Причины отказа:\n" +
